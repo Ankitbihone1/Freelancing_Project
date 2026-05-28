@@ -1,3 +1,5 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
-freelancer-frontend/* linguist-vendored
+
+
+freelancer-frontend/** linguist-vendored
